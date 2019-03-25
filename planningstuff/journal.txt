@@ -1,1 +1,4 @@
 3/25/19
+Took almost the whole class to download my resources folder from my drive. Only 2 MB large but has about 600+ files, so Google took forever.
+Still not done uploading them to Github since it only lets you upload 100 files at a time on the browser version and I don't have access to Github Desktop here. 
+Otherwise, just a matter of organizing this repository.
